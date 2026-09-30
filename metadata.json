@@ -1,0 +1,6 @@
+{
+  "name": "Niharika Games",
+  "description": "India's premier gaming and rewards platform featuring Spin Wheel, Ludo, Carrom, Teen Patti, Dragon Tiger, wallet management, and secure rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
